@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactsMap</string>
+    <string name="wait">Retrieving Contacts</string>
+</resources>
